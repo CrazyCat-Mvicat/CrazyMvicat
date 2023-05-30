@@ -1,0 +1,81 @@
+.root {
+  position: relative;
+  width: 1646px;
+  height: 1047px;
+  align-items: flex-start;
+  background-color: #d9d9d9;
+  overflow: hidden;
+}
+.rectangle2 {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 1646px;
+  height: 1047px;
+  background-image: radial-gradient(
+    ellipse 1031.2473302520186px 601.266311099963px at 1219.1170816870006px 523.5000089595661px,
+    #53dea4ff 0%,
+    #53dea438 100%
+  );
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: auto;
+}
+._580b57fcd9996e24bc43c4c41 {
+  position: absolute;
+  left: 528px;
+  top: 547px;
+  width: 490px;
+  height: 465px;
+  background-image:/* webpackIgnore: true */ url('/assets/_580b57fcd9996e24bc43c4c41.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.welcomeToCrazyMvicat {
+  color: #1e1e1e;
+  font-size: 128px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 16px;
+  top: 40px;
+  width: 1630px;
+  height: 236px;
+  flex-direction: column;
+}
+.ifYouHaveAnyIdeasOnWhatWeShoul {
+  position: absolute;
+  left: 16px;
+  top: 303px;
+  width: 1608px;
+  height: 290px;
+  flex-direction: column;
+}
+.textBlock {
+  color: #000;
+  font-size: 50px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock2 {
+  margin-top: 0;
+  color: #000;
+  font-size: 50px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock3 {
+  margin-top: 0;
+  color: #000;
+  font-size: 50px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock4 {
+  margin-top: 0;
+  color: #000;
+  font-size: 50px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
