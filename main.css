@@ -27,7 +27,7 @@ body {
 .v9_17 {
   width: 490px;
   height: 465px;
-  background: url("../images/v9_17.png");
+  background: url("./v9_17.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
