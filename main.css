@@ -40,8 +40,8 @@ body {
   position: absolute;
   top: 40px;
   left: 16px;
-  font-family: Inter;
-  font-weight: Regular;
+  font-family: 'Inter', sans-serif;
+  font-weight: normal;
   font-size: 128px;
   opacity: 1;
   text-align: left;
@@ -62,8 +62,8 @@ body {
   position: absolute;
   top: 409px;
   left: 53px;
-  font-family: Inter;
-  font-weight: Regular;
+  font-family: 'Inter', sans-serif;
+  font-weight: normal;
   font-size: 69px;
   opacity: 1;
   text-align: left;
@@ -84,8 +84,8 @@ body {
   position: absolute;
   top: 412px;
   left: 327px;
-  font-family: Inter;
-  font-weight: Regular;
+  font-family: 'Inter', sans-serif;
+  font-weight: normal;
   font-size: 36px;
   opacity: 1;
   text-align: left;
