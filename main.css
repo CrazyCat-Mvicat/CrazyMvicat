@@ -40,7 +40,7 @@ body {
 }
 
 .v9_15 {
-  color: rgba(30, 30, 30, 1);
+  color: rgba(0, 0, 0, 1);
   position: absolute;
   top: 40px;
   left: 16px;
@@ -50,6 +50,8 @@ body {
   opacity: 1;
   text-align: left;
   background: none;
+  padding: 0;
+  margin: 0;
 }
 
 .v22_11 {
@@ -61,7 +63,7 @@ body {
   top: 388px;
   left: 16px;
   overflow: hidden;
-  color: #FFF;
+  color: #000;
 }
 
 .v22_12 {
@@ -80,14 +82,13 @@ body {
 .v31_30 {
   width: 282px;
   height: 140px;
-  background: rgba(71, 127, 180, 0);
+  background: rgba(71, 127, 180, 1);
   opacity: 1;
   position: absolute;
   top: 388px;
   left: 309px;
   overflow: hidden;
   color: #FFF;
-  border: none;
 }
 
 .v31_31 {
