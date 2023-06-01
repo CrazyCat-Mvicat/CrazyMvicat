@@ -40,7 +40,6 @@ body {
 }
 
 .v9_15 {
-  width: 100%;
   color: rgba(30, 30, 30, 1);
   position: absolute;
   top: 40px;
@@ -50,6 +49,7 @@ body {
   font-size: 128px;
   opacity: 1;
   text-align: left;
+  background: none;
 }
 
 .v22_11 {
@@ -84,20 +84,5 @@ body {
   opacity: 1;
   position: absolute;
   top: 388px;
-  left: 309px;
-  overflow: hidden;
-  color: #FFF;
-}
-
-.v31_31 {
-  width: 264px;
-  color: rgba(255, 255, 255, 1);
-  position: absolute;
-  top: 412px;
-  left: 327px;
-  font-family: 'Inter', sans-serif;
-  font-weight: normal;
-  font-size: 36px;
-  opacity: 1;
-  text-align: left;
+  left
 }
