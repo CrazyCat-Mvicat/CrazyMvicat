@@ -20,7 +20,7 @@ body {
 .v19_2 {
   width: 100%;
   height: 293px;
-  background: rgba(71, 127, 180, 1);
+  background: transparent; /* Update background color to transparent */
   opacity: 1;
   position: relative;
   top: 0px;
@@ -80,7 +80,7 @@ body {
 .v31_30 {
   width: 282px;
   height: 140px;
-  background: rgba(71, 127, 180, 1);
+  background: transparent; /* Update background color to transparent */
   opacity: 1;
   position: absolute;
   top: 388px;
