@@ -84,5 +84,20 @@ body {
   opacity: 1;
   position: absolute;
   top: 388px;
-  left
+  left: 309px;
+  overflow: hidden;
+  color: #FFF;
+}
+
+.v31_31 {
+  width: 264px;
+  color: rgba(255, 255, 255, 1);
+  position: absolute;
+  top: 412px;
+  left: 327px;
+  font-family: 'Inter', sans-serif;
+  font-weight: normal;
+  font-size: 36px;
+  opacity: 1;
+  text-align: left;
 }
