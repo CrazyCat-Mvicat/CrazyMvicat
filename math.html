@@ -2,8 +2,8 @@
 <html>
 <head>
   <link href="https://fonts.googleapis.com/css?family=Inter&display=swap" rel="stylesheet" />
-  <link href="./math.css" rel="stylesheet" />
-  <title>CrazyMvicat</title>
+  <link href="./css/main.css" rel="stylesheet" />
+  <title>Document</title>
 </head>
 <body>
   <div class="v30_2">
@@ -18,7 +18,7 @@
     <span class="v31_26">Grade 7</span>
     <span class="v31_27">Grade 7</span>
     <div class="v48_6"></div>
-    <a href="main.html" class="v48_7">Go Back</a>
+    <button class="v48_7" onclick="goBack()">Go Back</button>
     <div class="v31_21"></div>
     <span class="v31_22">Grade 5</span>
     <div class="v31_23"></div>
@@ -28,5 +28,11 @@
     <span class="v31_15">Grade 3</span>
     <span class="v31_11">Grade 2</span>
   </div>
+
+  <script>
+    function goBack() {
+      window.history.back();
+    }
+  </script>
 </body>
 </html>
