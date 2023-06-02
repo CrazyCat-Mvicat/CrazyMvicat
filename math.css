@@ -1,241 +1,103 @@
 * {
-    box-sizing: border-box;
-  }
-  body {
-    font-size: 14px;
-  }
-  .v30_2 {
-    width: 100%;
-    height: 1024px;
-    background: radial-gradient(50% 50% at 50% 50%, #FF1F00 0%, rgba(255, 0, 0, 0.5) 100%);
-    ;
-    opacity: 1;
-    position: absolute;
-    top: 0px;
-    left: 0px;
-    overflow: hidden;
-  }
-  .v31_2 {
-    width: 100%;
-    height: 100%;
-    background: none;
-    opacity: 1;
-    position: absolute;
-    top: 0px;
-    left: 0px;
-    overflow: hidden;
-  }
-  .v31_3 {
-    width: 100%;
-    color: rgba(0,0,0,1);
-    position: absolute;
-    top: 0px;
-    left: 0px;
-    font-family: Inter;
-    font-weight: Regular;
-    font-size: 100px;
-    opacity: 1;
-    text-align: left;
-  }
-  .v31_5 {
-    width: 579px;
-    height: 334px;
-    background: url("./v31_5.png");
-    background-repeat: no-repeat;
-    background-position: center center;
-    background-size: cover;
-    opacity: 1;
-    position: absolute;
-    top: 136px;
-    left: 50px;
-    overflow: hidden;
-  }
-  .v31_6 {
-    width: 340px;
-    height: 140px;
-    background: rgba(70,127,179,1);
-    opacity: 1;
-    position: absolute;
-    top: 289px;
-    left: 629px;
-    overflow: hidden;
-  }
-  .v31_10 {
-    width: 340px;
-    height: 140px;
-    background: rgba(70,127,179,1);
-    opacity: 1;
-    position: absolute;
-    top: 287px;
-    left: 1019px;
-    overflow: hidden;
-  }
-  .v31_13 {
-    width: 340px;
-    height: 140px;
-    background: rgba(70,127,179,1);
-    opacity: 1;
-    position: absolute;
-    top: 514px;
-    left: 225px;
-    overflow: hidden;
-  }
-  .v31_9 {
-    width: 304px;
-    color: rgba(158,36,36,1);
-    position: absolute;
-    top: 313px;
-    left: 647px;
-    font-family: Inter;
-    font-weight: Regular;
-    font-size: 75px;
-    opacity: 1;
-    text-align: left;
-  }
-  .v31_25 {
-    width: 340px;
-    height: 140px;
-    background: rgba(70,127,179,1);
-    opacity: 1;
-    position: absolute;
-    top: 714px;
-    left: 620px;
-    overflow: hidden;
-  }
-  .v31_26 {
-    width: 304px;
-    color: rgba(255,255,255,1);
-    position: absolute;
-    top: 738px;
-    left: 638px;
-    font-family: Inter;
-    font-weight: Regular;
-    font-size: 75px;
-    opacity: 1;
-    text-align: left;
-  }
-  .v31_27 {
-    width: 304px;
-    color: rgba(210,114,234,1);
-    position: absolute;
-    top: 738px;
-    left: 638px;
-    font-family: Inter;
-    font-weight: Regular;
-    font-size: 75px;
-    opacity: 1;
-    text-align: left;
-  }
-  .v48_6 {
-    width: 330px;
-    height: 140px;
-    background: rgba(70,127,179,1);
-    opacity: 1;
-    position: absolute;
-    top: 714px;
-    left: 1025px;
-    overflow: hidden;
-  }
-  .v48_7 {
-    width: 294px;
-    color: rgba(0,0,0,1);
-    position: absolute;
-    top: 736px;
-    left: 1055px;
-    font-family: Inter;
-    font-weight: Regular;
-    font-size: 73px;
-    opacity: 1;
-    text-align: left;
-  }
-  .v31_21 {
-    width: 340px;
-    height: 140px;
-    background: rgba(70,127,179,1);
-    opacity: 1;
-    position: absolute;
-    top: 512px;
-    left: 1015px;
-    overflow: hidden;
-  }
-  .v31_22 {
-    width: 304px;
-    color: rgba(59,158,213,1);
-    position: absolute;
-    top: 536px;
-    left: 1033px;
-    font-family: Inter;
-    font-weight: Regular;
-    font-size: 75px;
-    opacity: 1;
-    text-align: left;
-  }
-  .v31_23 {
-    width: 340px;
-    height: 140px;
-    background: rgba(70,127,179,1);
-    opacity: 1;
-    position: absolute;
-    top: 714px;
-    left: 225px;
-    overflow: hidden;
-  }
-  .v31_24 {
-    width: 304px;
-    color: rgba(131,135,247,1);
-    position: absolute;
-    top: 738px;
-    left: 243px;
-    font-family: Inter;
-    font-weight: Regular;
-    font-size: 75px;
-    opacity: 1;
-    text-align: left;
-  }
-  .v31_17 {
-    width: 340px;
-    height: 140px;
-    background: rgba(70,127,179,1);
-    opacity: 1;
-    position: absolute;
-    top: 512px;
-    left: 620px;
-    overflow: hidden;
-  }
-  .v31_18 {
-    width: 304px;
-    color: rgba(108,243,86,1);
-    position: absolute;
-    top: 536px;
-    left: 638px;
-    font-family: Inter;
-    font-weight: Regular;
-    font-size: 75px;
-    opacity: 1;
-    text-align: left;
-  }
-  .v31_15 {
-    width: 304px;
-    color: rgba(225,215,130,1);
-    position: absolute;
-    top: 538px;
-    left: 243px;
-    font-family: Inter;
-    font-weight: Regular;
-    font-size: 75px;
-    opacity: 1;
-    text-align: left;
-  }
-  .v31_11 {
-    width: 304px;
-    color: rgba(244,155,105,1);
-    position: absolute;
-    top: 311px;
-    left: 1055px;
-    font-family: Inter;
-    font-weight: Regular;
-    font-size: 75px;
-    opacity: 1;
-    text-align: left;
-  }
-  
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v78_19 {
+  width: 100%;
+  height: 1024px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v78_20 {
+  width: 100%;
+  height: 100%;
+  background: radial-gradient(50% 50% at 50% 50%, #FF1F00 0%, rgba(255, 0, 0, 0.5) 100%);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v78_21 {
+  width: 878px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 80px;
+  left: 80px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 100px;
+  opacity: 1;
+  text-align: left;
+}
+.v78_22 {
+  width: 402px;
+  height: 232px;
+  background: url("./v78_22.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 80px;
+  left: 955px;
+  overflow: hidden;
+}
+.v78_45 {
+  width: 100%;
+  height: 113px;
+  background: url("./v78_45.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  margin: 55px;
+  opacity: 1;
+  position: absolute;
+  top: 598px;
+  left: 80px;
+  overflow: hidden;
+}
+.name {
+  color: #fff;
+}
+.name {
+  color: #fff;
+}
+.name {
+  color: #fff;
+}
+.name {
+  color: #fff;
+}
+.name {
+  color: #fff;
+}
+.v78_50 {
+  width: 965px;
+  height: 113px;
+  background: url("./v78_50.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  margin: 55px;
+  opacity: 1;
+  position: absolute;
+  top: 770px;
+  left: 80px;
+  overflow: hidden;
+}
+.name {
+  color: #fff;
+}
+.name {
+  color: #fff;
+}
+.name {
+  color: #fff;
+}
