@@ -59,10 +59,10 @@ body {
   width: 285px;
   height: 113px;
   background: #000;
-  border-radius: 50px 50px 50px 50px;
+  border-radius: 50px;
   opacity: 1;
   position: absolute;
-  top: 200px;
+  bottom: 200px;
   left: calc(50% - 142.5px);
   overflow: hidden;
   display: flex;
@@ -70,15 +70,10 @@ body {
   align-items: center;
 }
 
-.name1,
-.name2,
-.name3,
-.name4,
-.name5,
-.name6,
-.name7 {
-  width: 60px;
-  height: 60px;
+.name {
+  width: 50px;
+  height: 50px;
+  background-color: #000;
   border-radius: 50%;
   display: flex;
   justify-content: center;
@@ -88,55 +83,47 @@ body {
   color: #fff;
 }
 
-.name1 {
+.name:nth-child(1) {
   background-color: red;
 }
 
-.name2 {
+.name:nth-child(2) {
   background-color: orange;
 }
 
-.name3 {
+.name:nth-child(3) {
   background-color: yellow;
 }
 
-.name4 {
+.name:nth-child(4) {
   background-color: green;
 }
 
-.name5 {
+.name:nth-child(5) {
   background-color: blue;
 }
 
-.name6 {
+.name:nth-child(6) {
   background-color: indigo;
 }
 
-.name7 {
+.name:nth-child(7) {
   background-color: violet;
 }
 
-.name8 {
-  width: 60px;
-  height: 60px;
+.name:nth-child(8) {
   background-color: #000;
   color: #fff;
-  border-radius: 50%;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  font-size: 20px;
-  font-weight: bold;
 }
 
 .v78_50 {
   width: 285px;
   height: 113px;
-  background-color: #000;
-  border-radius: 50px 50px 50px 50px;
+  background: #000;
+  border-radius: 50px;
   opacity: 1;
   position: absolute;
-  top: 200px;
+  bottom: 50px;
   left: calc(50% - 142.5px);
   overflow: hidden;
   display: flex;
