@@ -1,19 +1,22 @@
 * {
   box-sizing: border-box;
 }
+
 body {
   font-size: 14px;
 }
+
 .v78_19 {
   width: 100%;
   height: 1024px;
-  background: rgba(255,255,255,1);
+  background: rgba(255, 255, 255, 1);
   opacity: 1;
   position: absolute;
   top: 0px;
   left: 0px;
   overflow: hidden;
 }
+
 .v78_20 {
   width: 100%;
   height: 100%;
@@ -24,9 +27,10 @@ body {
   left: 0px;
   overflow: hidden;
 }
+
 .v78_21 {
   width: 878px;
-  color: rgba(0,0,0,1);
+  color: rgba(0, 0, 0, 1);
   position: absolute;
   top: 80px;
   left: 80px;
@@ -36,6 +40,7 @@ body {
   opacity: 1;
   text-align: left;
 }
+
 .v78_22 {
   width: 402px;
   height: 232px;
@@ -49,55 +54,92 @@ body {
   left: 955px;
   overflow: hidden;
 }
+
 .v78_45 {
-  width: 100%;
+  width: 285px;
   height: 113px;
-  background: url("./v78_45.png");
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: cover;
-  margin: 55px;
+  background: #000;
+  border-radius: 50px 50px 50px 50px;
   opacity: 1;
   position: absolute;
-  top: 598px;
-  left: 80px;
+  top: 200px;
+  left: calc(50% - 142.5px);
   overflow: hidden;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
 }
-.name {
+
+.name1,
+.name2,
+.name3,
+.name4,
+.name5,
+.name6,
+.name7 {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 20px;
+  font-weight: bold;
   color: #fff;
 }
-.name {
-  color: #fff;
+
+.name1 {
+  background-color: red;
 }
-.name {
-  color: #fff;
+
+.name2 {
+  background-color: orange;
 }
-.name {
-  color: #fff;
+
+.name3 {
+  background-color: yellow;
 }
-.name {
-  color: #fff;
+
+.name4 {
+  background-color: green;
 }
+
+.name5 {
+  background-color: blue;
+}
+
+.name6 {
+  background-color: indigo;
+}
+
+.name7 {
+  background-color: violet;
+}
+
+.name8 {
+  width: 60px;
+  height: 60px;
+  background-color: #000;
+  color: #fff;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 20px;
+  font-weight: bold;
+}
+
 .v78_50 {
-  width: 965px;
+  width: 285px;
   height: 113px;
-  background: url("./v78_50.png");
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: cover;
-  margin: 55px;
+  background-color: #000;
+  border-radius: 50px 50px 50px 50px;
   opacity: 1;
   position: absolute;
-  top: 770px;
-  left: 80px;
+  top: 200px;
+  left: calc(50% - 142.5px);
   overflow: hidden;
-}
-.name {
-  color: #fff;
-}
-.name {
-  color: #fff;
-}
-.name {
-  color: #fff;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
 }
