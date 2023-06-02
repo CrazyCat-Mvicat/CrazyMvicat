@@ -17,8 +17,7 @@
   .v31_2 {
     width: 100%;
     height: 100%;
-    background: radial-gradient(50% 50% at 50% 50%, #FF1F00 0%, rgba(255, 0, 0, 0.5) 100%);
-    ;
+    background: none;
     opacity: 1;
     position: absolute;
     top: 0px;
@@ -82,7 +81,7 @@
   }
   .v31_9 {
     width: 304px;
-    color: rgba(255,255,255,1);
+    color: rgba(158,36,36,1);
     position: absolute;
     top: 313px;
     left: 647px;
@@ -116,7 +115,7 @@
   }
   .v31_27 {
     width: 304px;
-    color: rgba(255,255,255,1);
+    color: rgba(210,114,234,1);
     position: absolute;
     top: 738px;
     left: 638px;
@@ -138,7 +137,7 @@
   }
   .v48_7 {
     width: 294px;
-    color: rgba(255,255,255,1);
+    color: rgba(0,0,0,1);
     position: absolute;
     top: 736px;
     left: 1055px;
@@ -160,7 +159,7 @@
   }
   .v31_22 {
     width: 304px;
-    color: rgba(255,255,255,1);
+    color: rgba(59,158,213,1);
     position: absolute;
     top: 536px;
     left: 1033px;
@@ -182,7 +181,7 @@
   }
   .v31_24 {
     width: 304px;
-    color: rgba(255,255,255,1);
+    color: rgba(131,135,247,1);
     position: absolute;
     top: 738px;
     left: 243px;
@@ -204,7 +203,7 @@
   }
   .v31_18 {
     width: 304px;
-    color: rgba(255,255,255,1);
+    color: rgba(108,243,86,1);
     position: absolute;
     top: 536px;
     left: 638px;
@@ -216,7 +215,7 @@
   }
   .v31_15 {
     width: 304px;
-    color: rgba(255,255,255,1);
+    color: rgba(225,215,130,1);
     position: absolute;
     top: 538px;
     left: 243px;
@@ -228,7 +227,7 @@
   }
   .v31_11 {
     width: 304px;
-    color: rgba(255,255,255,1);
+    color: rgba(244,155,105,1);
     position: absolute;
     top: 311px;
     left: 1055px;
