@@ -87,6 +87,7 @@ body {
   font-weight: Regular;
   opacity: 1;
   text-align: center;
+  font-size: 55px;
 }
 .v126_41 {
   width: 306px;
@@ -125,6 +126,7 @@ body {
   font-weight: Regular;
   opacity: 1;
   text-align: center;
+  font-size: 55px;
 }
 .v126_44 {
   width: 306px;
@@ -163,6 +165,7 @@ body {
   font-weight: Regular;
   opacity: 1;
   text-align: center;
+  font-size: 55px;
 }
 .v126_47 {
   width: 306px;
@@ -201,6 +204,7 @@ body {
   font-weight: Regular;
   opacity: 1;
   text-align: center;
+  font-size: 55px;
 }
 .v126_50 {
   width: 306px;
@@ -239,6 +243,7 @@ body {
   font-weight: Regular;
   opacity: 1;
   text-align: center;
+  font-size: 55px;
 }
 .v126_53 {
   width: 306px;
@@ -269,7 +274,7 @@ body {
 }
 .v126_55 {
   width: 261px;
-  color: url("./v126_55.png");
+  color: purple;
   position: absolute;
   top: 24px;
   left: 20px;
@@ -277,6 +282,7 @@ body {
   font-weight: Regular;
   opacity: 1;
   text-align: center;
+  font-size: 55px;
 }
 .v126_56 {
   width: 306px;
@@ -315,6 +321,7 @@ body {
   font-weight: Regular;
   opacity: 1;
   text-align: center;
+  font-size: 55px;
 }
 .v126_59 {
   width: 306px;
@@ -355,3 +362,4 @@ body {
   opacity: 1;
   text-align: center;
 }
+
