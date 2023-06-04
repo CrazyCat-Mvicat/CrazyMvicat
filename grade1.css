@@ -49,16 +49,16 @@ body {
   text-align: left;
 }
 .v143_3 {
-  width: 630px;
-  height: 632px;
+  width: 444px;
+  height: 431px;
   background: url("./v143_3.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
   opacity: 1;
   position: absolute;
-  top: 311px;
-  left: 730px;
+  top: 233px;
+  left: 906px;
   overflow: hidden;
 }
 .v148_4 {
@@ -67,8 +67,8 @@ body {
   background: rgba(0,0,0,1);
   opacity: 1;
   position: absolute;
-  top: 320px;
-  left: 350px;
+  top: 744px;
+  left: 1084px;
   border-top-left-radius: 30px;
   border-top-right-radius: 30px;
   border-bottom-left-radius: 30px;
@@ -81,8 +81,8 @@ body {
   background: rgba(0,0,0,1);
   opacity: 1;
   position: absolute;
-  top: 545px;
-  left: 350px;
+  top: 744px;
+  left: 710px;
   border-top-left-radius: 30px;
   border-top-right-radius: 30px;
   border-bottom-left-radius: 30px;
@@ -93,8 +93,8 @@ body {
   width: 220px;
   color: rgba(255,255,255,1);
   position: absolute;
-  top: 559px;
-  left: 405px;
+  top: 758px;
+  left: 765px;
   font-family: Inter;
   font-weight: Regular;
   font-size: 40px;
@@ -105,8 +105,8 @@ body {
   width: 220px;
   color: rgba(255,255,255,1);
   position: absolute;
-  top: 335px;
-  left: 405px;
+  top: 759px;
+  left: 1139px;
   font-family: Inter;
   font-weight: Regular;
   font-size: 75px;
