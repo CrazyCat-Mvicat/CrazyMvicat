@@ -1,14 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
 
-/* !!!! */
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
+
 img {
     max-width: 100%;
-    margin-top: 100px
 }
 
 a {
@@ -16,8 +15,7 @@ a {
     text-decoration: none;
 }
 
-/* !!!! */
-.notification{
+.notification {
     height: 40px;
     background: linear-gradient(141deg, #4AC290 0%, #46DA2D 100%);
     text-align: center;
@@ -26,11 +24,12 @@ a {
     align-items: center;
 }
 
-body{
+body {
     background: radial-gradient(57.43% 57.43% at 50% 50.00%, rgba(0, 255, 148, 0.81) 0%, rgba(0, 255, 148, 0.41) 100%);
     height: 100vh;
     font-family: Inter;
 }
+
 .main__btn {
     width: 306px;
     height: 122px;
@@ -45,23 +44,31 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-
+    position: absolute;
+    top: 600px;
+    left: 200px;
 }
+
 .main__subtitle {
     display: flex;
-    width: 848px;
     flex-direction: column;
     color: #222;
     font-size: 100px;
     margin-top: 100px;
-
+    margin-left: 200px;
 }
+
 .main__title {
     display: flex;
-    width: 848px;
     flex-direction: column;
     color: #222;
     font-size: 100px;
     margin-top: 50px;
+    margin-left: 200px;
+}
 
+.main__photo {
+    position: absolute;
+    top: 150px;
+    right: 200px;
 }
