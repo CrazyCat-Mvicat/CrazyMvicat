@@ -1,28 +1,3 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
-
-
-/* !!!! */
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
-img {
-    max-width: 100%;
-}
-
-a {
-    color: inherit;
-    text-decoration: none;
-}
-body {
-    height: 100vh;
-    width: 100vw;
-}
-.container {
-    max-width: 1570px;;
-}
-/* !!!! */
 
 
 .main__photo {
@@ -55,10 +30,7 @@ align-items: center;
 }
 
 
-body{
-background: linear-gradient(148deg, #3124F0 0%, rgba(112, 162, 251, 0.76) 48.75%, rgba(255, 0, 0, 0.50) 100%);
 
-}
 .main__title{
 display: flex;
 flex-direction: column;

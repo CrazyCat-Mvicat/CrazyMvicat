@@ -1,0 +1,27 @@
+
+.btn__1,
+.btn__2 {
+    width: 306px;
+    height: 112px;
+    border-radius: 30px;
+    background: black;
+    color: white;
+    font-size: 55px;
+    font-family: Inter;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.btn {
+    display: flex;
+    gap: 70px;
+    flex-wrap: wrap;
+
+}
+
+.btn__1 {
+    margin-left: 100px;
+    margin-bottom: 100px;
+}
