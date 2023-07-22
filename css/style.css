@@ -8,6 +8,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    transition: 1s;
 }
 
  
@@ -26,7 +27,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    flex
+    margin-left: 200px;
     
 }
 .main-header {
