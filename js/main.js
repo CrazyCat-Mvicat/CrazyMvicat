@@ -6,3 +6,9 @@ cookieClicker.addEventListener('click', function () {
     clicks += 1
     cookieCounter.textContent = clicks
 })
+
+let home = document.getElementsByTagName('button')[0]
+
+home.addEventListener('click', function () {
+    location.href = 'index.html'
+})
