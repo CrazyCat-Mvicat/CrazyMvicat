@@ -1,56 +1,31 @@
-
-
-.notification {
-    height: 50px;
-    background: grey;
+h1 {
+    font-size: 70px;
     text-align: center;
     color: white;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    transition: 1s;
 }
 
- 
-
-.main__btn {
-    width: 306px;
-    height: 122px;
-    flex-shrink: 0;
+button {
+    padding: 30px 70px;
+    display: table;
+    margin: auto;
     border-radius: 30px;
-    background: #000;
-    color: #FFF;
+    font-size: 50px;
+    background: #40E0D0;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #FF0080, #FF8C00, #40E0D0);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #FF0080, #FF8C00, #40E0D0); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    color: white;
+    margin-top: 50px;
+}
+
+body {
+    background: #b92b27;  
+    background: -webkit-linear-gradient(to right, #1565C0, #b92b27);  
+    background: linear-gradient(to right, #1565C0, #b92b27); 
+
+}
+
+h2 {
+    color: white;
     text-align: center;
-    font-size: 55px;
-    margin-top: 100px;
-    cursor: pointer;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin-left: 200px;
-    
-}
-.main-header {
-    display: flex;
-    justify-content: space-evenly;
-}
-.main__subtitle {
-    display: flex;
-    flex-direction: column;
-    color: #222;
-    font-size: 70px;
-    
-}
-
-.main__title {
-    display: flex;
-    flex-direction: column;
-    color: #222;
-    font-size: 70px;
-    
-}
-
-.main__photo {
-
-
+    margin-top: 0px;
 }
