@@ -82,14 +82,14 @@ button {
     width: 375px;
     height: 375px;
     position: absolute;
+    bottom: 8px;
     left: 500px;
-    bottom: 425px;
 
 }
 
 .tic_text {
     position: absolute;
-    bottom: 800px;
+    bottom: 390px;
     left: 560px;
     text-shadow: 3px 4px grey;
     font-size: 50px;
