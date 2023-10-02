@@ -5,15 +5,6 @@ let clicks = 0
 cookieClicker.addEventListener('click', function (e) {
     clicks += 1
     cookieCounter.textContent = (clicks + ' Cookies')
-    let h3 = document.createElement('h3')
-    h3.textContent = '+ 1'
-    h3.classList.add('plusone')
-    h3.style.left = e.clientX + 'px'
-    h3.style.top = e.clientY + 'px'
-    document.body.append(h3)
-    setTimeout(function () {
-        h3.remove()
-    }, 2000)
 })
 
 // -------------------------------------------------------------- //
