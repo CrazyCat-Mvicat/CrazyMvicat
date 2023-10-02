@@ -12,7 +12,7 @@ cookieClicker.addEventListener('click', function (e) {
 let home = document.getElementsByTagName('button')[0]
 
 home.addEventListener('click', function () {
-    location.href = 'index.html'
+    location.href = 'crazymvicat.pro'
 })
 
 // --------------------------------------------------------------- //
