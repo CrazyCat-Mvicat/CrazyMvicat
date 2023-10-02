@@ -98,6 +98,7 @@ td {
     font-family: Inter;
     user-select: none;
     cursor: pointer;
+    color: red;
 }
 
 td:hover {
